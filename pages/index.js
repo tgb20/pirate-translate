@@ -53,7 +53,7 @@ export default function Home() {
           </Container>
         </VStack>
         <Container textAlign='right' pb={2} position='fixed' bottom={0} right={0}>
-          <Text>Powered with <Link isExternal href='https://chat.openai.com/'>ChatGPT</Link> | <Link isExternal href='https://chat.openai.com/'>Github</Link></Text>
+          <Text>Powered with <Link isExternal href='https://chat.openai.com/'>ChatGPT</Link> | <Link isExternal href='https://github.com/tgb20/pirate-translate'>Github</Link></Text>
         </Container>
       </main>
     </>
